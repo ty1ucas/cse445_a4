@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Hotels> <!-- Error #1: The root element should be named Hotels -->
+<Hotel> <!-- Error #1: The root element should be named Hotels -->
     <Hotel Rating="4.2">
         <Name>Omni Tempe Hotel at ASU</Name>
         <Phone>844-434-0904</Phone>
@@ -113,4 +113,4 @@
             <Zip>92101</Zip>
         </Address>
     </Hotel>
-</Hotels>
+</Hotel>
