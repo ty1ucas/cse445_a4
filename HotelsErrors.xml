@@ -4,7 +4,7 @@
         <Name>Omni Tempe Hotel at ASU</Name>
         <Phone>844-434-0904</Phone>
         <Phone>888-444-6664</Phone>
-        <Address NearestAirport="Phoenix Sky Harbor International Airport">
+        <Address NearstAirport="Phoenix Sky Harbor International Airport">
             <Number>7</Number>
             <Street>East University Drive</Street>
             <City>Tempe</City>
@@ -15,7 +15,7 @@
     <Hotel Rating="4.1">
         <Name>Caesars Palace</Name>
         <Phone>866-227-5938</Phone>
-        <Address> <!-- Error #2: The Address element is missing the required NearestAirport attribute -->
+        <Address> <!-- Error #2: The Address element is missing the required NearstAirport attribute -->
             <Number>3570</Number>
             <Street>Las Vegas Boulevard South</Street>
             <City>Las Vegas</City>
@@ -26,7 +26,7 @@
     <Hotel Rating="4.0">
         <Name>Bellagio Las Vegas</Name>
         <Phone>888-987-6667</Phone>
-        <Address NearestAirport="Harry Reid International Airport">
+        <Address NearstAirport="Harry Reid International Airport">
             <Number>3600</Number>
             <Street>Las Vegas Boulevard South</Street>
             <City>Las Vegas</City>
@@ -37,7 +37,7 @@
     <Hotel Rating="4.3">
         <Name>The Venetian Resort</Name>
         <!-- Error #3: The Phone element is missing -->
-        <Address NearestAirport="Harry Reid International Airport">
+        <Address NearstAirport="Harry Reid International Airport">
             <Number>3355</Number>
             <Street>Las Vegas Boulevard South</Street>
             <City>Las Vegas</City>
@@ -48,7 +48,7 @@
     <Hotel Rating="3.5">
         <Name>Luxor Hotel and Casino</Name>
         <Phone>877-386-4658</Phone>
-        <Address NearestAirport="Harry Reid International Airport">
+        <Address NearstAirport="Harry Reid International Airport">
             <Number>3900</Number>
             <Street>South Las Vegas Boulevard</Street>
             <City>Las Vegas</City>
@@ -59,7 +59,7 @@
     <Hotel>
         <Name>Sheraton Desert Oasis Villas</Name>
         <Phone>844-631-0595</Phone>
-        <Address NearestAirport="Scottsdale Airport">
+        <Address NearstAirport="Scottsdale Airport">
             <Number>17700</Number>
             <Street>North Hayden Road</Street>
             <City>Scottsdale</City>
@@ -70,7 +70,7 @@
     <Hotel Rating="4.3">
         <Name>Mariott's Newport Coast Villas</Name>
         <Phone>480-627-3200</Phone>
-        <Address NearestAirport="John Wayne Airport">
+        <Address NearstAirport="John Wayne Airport">
             <Number>23000</Number>
             <Street>Newport Coast Drive</Street>
             <City>Newport Beach</City>
@@ -82,7 +82,7 @@
         <Name>Omni Scottsdale Resort and Spa at Montelucia</Name>
         <Name>Omni Scottsdale Resort</Name> <!-- Error #5: Two Name elements are provided -->
         <Phone>800-578-2900</Phone>
-        <Address NearestAirport="Phoenix Sky Harbor International Airport">
+        <Address NearstAirport="Phoenix Sky Harbor International Airport">
             <Number>4949</Number>
             <Street>East Lincoln Drive</Street>
             <City>Paradise Valley</City>
@@ -93,7 +93,7 @@
     <Hotel Rating="3.7">
         <Name>Courtyard by Mariott San Diego Mission Valley / Hotel Circle</Name>
         <Phone>844-631-0595</Phone>
-        <Address NearestAirport="San Diego International Airport">
+        <Address NearstAirport="San Diego International Airport">
             <Number>595</Number>
             <Street>Hotel Circle South</Street>
             <City>San Diego</City>
@@ -104,7 +104,7 @@
     <Hotel Rating="4.0">
         <Name>Margaritaville Hotel San Diego Gaslamp Quarter</Name>
         <Phone>619-815-8260</Phone>
-        <Address NearestAirport="San Diego International Airport">
+        <Address NearstAirport="San Diego International Airport">
             <Number>435</Number>
             <Street>Sixth Avenue</Street>
             <City>San Diego</City>
