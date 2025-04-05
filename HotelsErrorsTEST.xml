@@ -76,7 +76,7 @@
             <City>Newport Beach</City>
             <State>CA</State>
             <Zip>92657</Zip>
-        <!-- Error #4: The Address element is missing the closing tag -->
+        </Address>
     </Hotel>
     <Hotel>
         <Name>Omni Scottsdale Resort and Spa at Montelucia</Name>
@@ -110,6 +110,6 @@
             <City>San Diego</City>
             <State>CA</State>
             <Zip>92101</Zip>
-        </Address>
+        <!-- Error #4: The Address element is missing the closing tag -->
     </Hotel>
 </Hotel>
